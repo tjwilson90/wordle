@@ -324,6 +324,91 @@ fn solve3(guess: [u8; 5], dict: &Dictionary, depth: usize) -> Option<u16> {
     })
 }
 
+struct Solver {
+    breadth: usize,
+    hard: bool,
+}
+
+impl Solver {
+    fn solve(
+        &self,
+        guess: [u8; 5],
+        guesses: &Dictionary,
+        answers: &Dictionary,
+        depth: usize,
+    ) -> Option<Solution> {
+        if depth == 0 {
+            return if answers.len() == 1 {
+                Some(Solution {
+                    guess,
+                    size: 1,
+                    solution: Vec::new(),
+                })
+            } else {
+                None
+            };
+        }
+        let mut partition = HashMap::with_capacity(cmp::min(answers.len(), 243));
+        for answer in answers.iter() {
+            partition
+                .entry(word_match(guess, answer))
+                .or_insert_with(|| Dictionary::with_capacity(answers.len() / 50))
+                .push(answer);
+        }
+        partition.remove(&WordMatch::CORRECT);
+        if partition.len() == answers.len() - 1 {
+            return Some(Solution {
+                guess,
+                size: 2 * partition.len() as u16 + 1,
+                solution: partition
+                    .into_iter()
+                    .map(|(wm, dict)| {
+                        (
+                            wm,
+                            Solution {
+                                guess: dict.word(0),
+                                size: 1,
+                                solution: Vec::new(),
+                            },
+                        )
+                    })
+                    .collect(),
+            });
+        }
+        let solution = Solution {
+            guess,
+            size: 1,
+            solution: Vec::with_capacity(partition.len()),
+        };
+        partition
+            .into_iter()
+            .try_fold(solution, |mut solution, (wm, dict)| {
+                let mut next_guesses = Dictionary::with_capacity(guesses.len() / 100);
+                let next_guesses = if self.hard && ptr::eq(guesses, answers) {
+                    &dict
+                } else if self.hard {
+                    for word in guesses.iter() {
+                        if word_match(guess, word) == wm {
+                            next_guesses.push(word);
+                        }
+                    }
+                    &next_guesses
+                } else {
+                    guesses
+                };
+                next_guesses
+                    .par_iter()
+                    .filter_map(|guess| self.solve(guess, &dict, &dict, depth - 1))
+                    .min_by_key(|solution| solution.size)
+                    .map(|sub_solution| {
+                        solution.size += sub_solution.size + dict.len() as u16;
+                        solution.solution.push((wm, sub_solution));
+                        solution
+                    })
+            })
+    }
+}
+
 fn main() -> Result<(), Box<dyn Error>> {
     let mut hard = false;
     let mut breadth = 10;
@@ -349,29 +434,29 @@ fn main() -> Result<(), Box<dyn Error>> {
     if limit_guesses {
         guesses = answers;
     }
-    for guess in guesses.iter().take(5) {
-        if let Some(total) = solve3(guess, answers, depth - 1) {
-            eprintln!(
-                "{}: mean: {}",
-                String::from_utf8_lossy(&guess),
-                total as f32 / answers.len() as f32
-            );
-        } else {
-            eprintln!("{}: no solution", String::from_utf8_lossy(&guess));
-        }
-    }
-    // let solution = if let Some(guess) = first_guess {
-    //     let guess = Guess::new(guess.as_bytes().try_into().unwrap(), answers);
-    //     guess.slow_solution(guesses, answers, breadth, depth - 1, hard)
-    // } else {
-    //     solve(guesses, answers, breadth, depth, hard)
-    // };
-    // if let Some(solution) = solution {
-    //     solution.print(&mut String::new());
-    //     eprintln!("mean: {}", solution.size as f32 / answers.len() as f32);
-    // } else {
-    //     eprintln!("no solution");
+    // for guess in guesses.iter().take(5) {
+    //     if let Some(total) = solve3(guess, answers, depth - 1) {
+    //         eprintln!(
+    //             "{}: mean: {}",
+    //             String::from_utf8_lossy(&guess),
+    //             total as f32 / answers.len() as f32
+    //         );
+    //     } else {
+    //         eprintln!("{}: no solution", String::from_utf8_lossy(&guess));
+    //     }
     // }
+    let solution = if let Some(guess) = first_guess {
+        let guess = Guess::new(guess.as_bytes().try_into().unwrap(), answers);
+        guess.slow_solution(guesses, answers, breadth, depth - 1, hard)
+    } else {
+        solve(guesses, answers, breadth, depth, hard)
+    };
+    if let Some(solution) = solution {
+        solution.print(&mut String::new());
+        eprintln!("mean: {}", solution.size as f32 / answers.len() as f32);
+    } else {
+        eprintln!("no solution");
+    }
     Ok(())
 }
 
