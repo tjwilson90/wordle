@@ -434,7 +434,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     if limit_guesses {
         guesses = answers;
     }
-    // for guess in guesses.iter().take(5) {
+    // for guess in guesses.iter() {
     //     if let Some(total) = solve3(guess, answers, depth - 1) {
     //         eprintln!(
     //             "{}: mean: {}",
