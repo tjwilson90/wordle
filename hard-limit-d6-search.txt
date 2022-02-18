@@ -1,0 +1,2309 @@
+aback: 3.8601127
+abase: no solution
+abate: no solution
+abbey: 3.8947597
+abbot: no solution
+abhor: no solution
+abide: 3.6682546
+abled: 3.6236465
+abode: no solution
+abort: no solution
+about: no solution
+above: 3.7674317
+abuse: no solution
+abyss: 3.872239
+acorn: no solution
+acrid: no solution
+actor: no solution
+acute: no solution
+adage: 3.798181
+adapt: 3.748809
+adept: 3.6227803
+admin: 3.679082
+admit: 3.6517973
+adobe: no solution
+adopt: no solution
+adore: no solution
+adorn: no solution
+adult: no solution
+affix: 4.0368123
+afire: 3.6730187
+afoot: no solution
+afoul: 3.734517
+after: no solution
+again: no solution
+agape: 3.78259
+agate: no solution
+agent: no solution
+agile: no solution
+aging: no solution
+aglow: no solution
+agony: no solution
+agree: no solution
+ahead: no solution
+aider: no solution
+aisle: no solution
+alarm: 3.7401474
+album: 3.6925075
+alert: no solution
+algae: no solution
+alibi: 3.8159375
+alien: 3.5690775
+align: no solution
+alike: 3.6660893
+alive: 3.6860113
+allay: no solution
+alley: no solution
+allot: no solution
+allow: 3.8163707
+alloy: no solution
+aloft: no solution
+alone: no solution
+along: no solution
+aloof: 3.8185363
+aloud: no solution
+alpha: no solution
+altar: no solution
+alter: no solution
+amass: 3.925509
+amaze: 3.9181464
+amber: no solution
+amble: 3.6435688
+amend: no solution
+amiss: 3.8116066
+amity: no solution
+among: no solution
+ample: 3.6214812
+amply: 3.7076657
+amuse: no solution
+angel: no solution
+anger: no solution
+angle: no solution
+angry: no solution
+angst: no solution
+anime: 3.6297097
+ankle: 3.6634908
+annex: 3.9315722
+annoy: no solution
+annul: no solution
+anode: no solution
+antic: no solution
+anvil: 3.7050672
+aorta: no solution
+apart: no solution
+aphid: 3.7167604
+aping: no solution
+apnea: 3.7501082
+apple: 3.763534
+apply: 3.831529
+apron: 3.616717
+aptly: 3.6535296
+arbor: no solution
+ardor: no solution
+arena: 3.7258554
+argue: no solution
+arise: no solution
+armor: no solution
+aroma: 3.7821567
+arose: no solution
+array: 3.9081852
+arrow: no solution
+arson: 3.5920312
+artsy: no solution
+ascot: no solution
+ashen: no solution
+aside: no solution
+askew: 3.78822
+assay: 3.9497619
+asset: no solution
+atoll: no solution
+atone: no solution
+attic: no solution
+audio: no solution
+audit: no solution
+augur: no solution
+aunty: no solution
+avail: 3.8293633
+avert: no solution
+avian: 3.8436553
+avoid: no solution
+await: no solution
+awake: 3.9003897
+award: 3.803811
+aware: no solution
+awash: no solution
+awful: 3.7717626
+awoke: no solution
+axial: 3.887397
+axiom: 3.852317
+axion: 3.8042443
+azure: no solution
+bacon: 3.6535296
+badge: 3.6886098
+badly: 3.689476
+bagel: no solution
+baggy: no solution
+baker: no solution
+baler: no solution
+balmy: 3.709831
+banal: 3.7275877
+banjo: 3.827631
+barge: no solution
+baron: 3.6271112
+basal: 3.7470767
+basic: 3.6838458
+basil: 3.6331744
+basin: 3.6522305
+basis: 3.8215678
+baste: no solution
+batch: no solution
+bathe: no solution
+baton: no solution
+batty: no solution
+bawdy: no solution
+bayou: 3.8016458
+beach: no solution
+beady: 3.7102642
+beard: 3.6279774
+beast: no solution
+beech: 3.8016458
+beefy: 3.8938935
+befit: 3.7055001
+began: no solution
+begat: no solution
+beget: no solution
+begin: no solution
+begun: no solution
+being: no solution
+belch: 3.684712
+belie: 3.724556
+belle: 3.8562148
+belly: 3.8388913
+below: no solution
+bench: 3.6964054
+beret: 3.6873105
+berry: 3.8332613
+berth: no solution
+beset: 3.7037678
+betel: 3.6977046
+bevel: 3.8007796
+bezel: 3.8687744
+bible: 3.803811
+bicep: 3.6764834
+biddy: 3.906453
+bigot: no solution
+bilge: no solution
+billy: 3.8596795
+binge: no solution
+bingo: no solution
+biome: 3.7011693
+birch: no solution
+birth: no solution
+bison: 3.6769164
+bitty: 3.8484192
+black: 3.7076657
+blade: 3.601126
+blame: 3.6193156
+bland: 3.6141186
+blank: no solution
+blare: 3.600693
+blast: no solution
+blaze: 3.7596362
+bleak: 3.7115633
+bleat: no solution
+bleed: 3.7102642
+bleep: 3.7323518
+blend: no solution
+bless: 3.7960155
+blimp: 3.693807
+blind: 3.640537
+blink: 3.7163274
+bliss: 3.7955825
+blitz: 3.7908185
+bloat: no solution
+block: 3.720225
+bloke: 3.7163274
+blond: no solution
+blood: no solution
+bloom: 3.8003464
+blown: 3.7024686
+bluer: no solution
+bluff: 3.8899956
+blunt: no solution
+blurb: 3.832828
+blurt: no solution
+blush: 3.6868775
+board: no solution
+boast: no solution
+bobby: 4.1147685
+boney: 3.700303
+bongo: no solution
+bonus: 3.7128627
+booby: 4.058467
+boost: 3.75877
+booth: no solution
+booty: no solution
+booze: 3.940667
+boozy: 4.034647
+borax: 3.807709
+borne: no solution
+bosom: 3.8289304
+bossy: 3.8878303
+botch: no solution
+bough: no solution
+boule: 3.6595929
+bound: no solution
+bowel: no solution
+boxer: no solution
+brace: no solution
+braid: 3.645301
+brain: 3.6214812
+brake: 3.684279
+brand: 3.6201818
+brash: no solution
+brass: 3.7847552
+brave: 3.6933737
+bravo: 3.7453444
+brawl: 3.6981378
+brawn: 3.6942399
+bread: 3.6318753
+break: 3.7102642
+breed: 3.733651
+briar: no solution
+bribe: 3.8168037
+brick: 3.7206583
+bride: 3.6522305
+brief: 3.6942399
+brine: 3.6128194
+bring: no solution
+brink: 3.713729
+briny: 3.6912084
+brisk: 3.7111304
+broad: no solution
+broil: 3.6392379
+broke: no solution
+brood: no solution
+brook: 3.8484192
+broom: 3.8098743
+broth: no solution
+brown: no solution
+brunt: no solution
+brush: no solution
+brute: 3.6245127
+buddy: no solution
+budge: no solution
+buggy: no solution
+bugle: no solution
+build: no solution
+built: no solution
+bulge: no solution
+bulky: 3.7999134
+bully: 3.85275
+bunch: 3.7254221
+bunny: no solution
+burly: 3.7089648
+burnt: no solution
+burst: no solution
+bused: 3.6925075
+bushy: no solution
+butch: no solution
+butte: 3.7864876
+buxom: 3.9003897
+buyer: no solution
+bylaw: 3.7752273
+cabal: 3.7362494
+cabby: 3.8800347
+cabin: 3.6440017
+cable: 3.5889995
+cacao: no solution
+cache: no solution
+cacti: no solution
+caddy: 3.8653097
+cadet: no solution
+cagey: no solution
+cairn: no solution
+camel: 3.596795
+cameo: no solution
+canal: 3.6929407
+candy: no solution
+canny: no solution
+canoe: no solution
+canon: no solution
+caper: no solution
+caput: no solution
+carat: no solution
+cargo: no solution
+carol: 3.5786054
+carry: 3.783456
+carve: no solution
+caste: no solution
+catch: no solution
+cater: no solution
+catty: no solution
+caulk: 3.680381
+cause: no solution
+cavil: 3.680381
+cease: no solution
+cedar: no solution
+cello: no solution
+chafe: no solution
+chaff: no solution
+chain: no solution
+chair: no solution
+chalk: 3.69987
+champ: 3.6912084
+chant: no solution
+chaos: no solution
+chard: no solution
+charm: 3.660026
+chart: no solution
+chase: no solution
+chasm: 3.664357
+cheap: no solution
+cheat: no solution
+check: 3.9229105
+cheek: 3.8427892
+cheer: no solution
+chess: no solution
+chest: no solution
+chick: no solution
+chide: no solution
+chief: no solution
+child: no solution
+chili: no solution
+chill: no solution
+chime: no solution
+china: no solution
+chirp: no solution
+chock: 3.9047205
+choir: no solution
+choke: no solution
+chord: no solution
+chore: no solution
+chose: no solution
+chuck: 3.9194458
+chump: 3.7340841
+chunk: no solution
+churn: 3.6608922
+chute: no solution
+cider: no solution
+cigar: no solution
+cinch: no solution
+circa: no solution
+civic: 4.0415764
+civil: 3.8401906
+clack: 3.8297966
+claim: 3.626245
+clamp: 3.6344738
+clang: 3.631009
+clank: no solution
+clash: 3.6253788
+clasp: 3.5885665
+class: 3.7366827
+clean: 3.5773063
+clear: no solution
+cleat: no solution
+cleft: 3.6466002
+clerk: 3.695106
+click: 3.8479862
+cliff: 3.8449545
+climb: 3.679948
+cling: no solution
+clink: no solution
+cloak: 3.6777825
+clock: 3.8375921
+clone: no solution
+close: 3.5695107
+cloth: 3.631009
+cloud: no solution
+clout: 3.611087
+clove: 3.689909
+clown: 3.664357
+cluck: 3.852317
+clued: no solution
+clump: 3.6665223
+clung: no solution
+coach: no solution
+coast: no solution
+cobra: no solution
+cocoa: 3.940667
+colon: no solution
+color: no solution
+comet: 3.6327415
+comfy: 3.7921178
+comic: 3.851451
+comma: 3.8393245
+conch: 3.807709
+condo: no solution
+conic: no solution
+copse: 3.6041577
+coral: 3.5833695
+corer: no solution
+corny: no solution
+couch: no solution
+cough: no solution
+could: no solution
+count: no solution
+coupe: 3.6686878
+court: no solution
+coven: no solution
+cover: no solution
+covet: no solution
+covey: 3.7851884
+cower: no solution
+coyly: no solution
+crack: no solution
+craft: no solution
+cramp: 3.6340406
+crane: no solution
+crank: no solution
+crash: no solution
+crass: 3.7505414
+crate: no solution
+crave: no solution
+crawl: 3.6569943
+craze: no solution
+crazy: 3.8111737
+creak: 3.6617584
+cream: 3.6097877
+credo: no solution
+creed: no solution
+creek: 3.7765267
+creep: 3.6985707
+creme: 3.7076657
+crepe: 3.6886098
+crept: 3.591165
+cress: 3.768731
+crest: no solution
+crick: 3.8393245
+cried: no solution
+crier: no solution
+crime: 3.6028583
+crimp: 3.6466002
+crisp: 3.601126
+croak: 3.6682546
+crock: 3.8449545
+crone: no solution
+crony: no solution
+crook: 3.817237
+cross: 3.7561715
+croup: 3.6483326
+crowd: no solution
+crown: 3.6634908
+crude: no solution
+cruel: 3.5989606
+crumb: 3.6959722
+crump: 3.6704202
+crush: no solution
+crust: no solution
+crypt: 3.6686878
+cubic: 3.8614118
+cumin: no solution
+curio: 3.6886098
+curly: 3.684279
+curry: 3.8146384
+curse: 3.606323
+curve: 3.7158942
+curvy: 3.7791252
+cutie: no solution
+cyber: 3.7310524
+cycle: 3.8479862
+cynic: 3.877003
+daddy: 4.0411434
+daily: 3.6578605
+dairy: no solution
+daisy: no solution
+dally: 3.8068428
+dance: no solution
+dandy: no solution
+datum: no solution
+daunt: no solution
+dealt: no solution
+death: no solution
+debar: no solution
+debit: 3.6526635
+debug: no solution
+debut: no solution
+decal: no solution
+decay: no solution
+decor: no solution
+decoy: no solution
+decry: no solution
+defer: no solution
+deign: no solution
+deity: no solution
+delay: no solution
+delta: no solution
+delve: 3.798181
+demon: no solution
+demur: no solution
+denim: no solution
+dense: no solution
+depot: 3.631442
+depth: no solution
+derby: 3.720225
+deter: no solution
+detox: no solution
+deuce: no solution
+devil: no solution
+diary: no solution
+dicey: no solution
+digit: no solution
+dilly: 3.827198
+dimly: 3.7158942
+diner: no solution
+dingo: no solution
+dingy: no solution
+diode: no solution
+dirge: no solution
+dirty: no solution
+disco: 3.6743178
+ditch: no solution
+ditto: no solution
+ditty: no solution
+diver: no solution
+dizzy: 4.059333
+dodge: no solution
+dodgy: no solution
+dogma: no solution
+doing: no solution
+dolly: no solution
+donor: no solution
+donut: no solution
+dopey: no solution
+doubt: no solution
+dough: no solution
+dowdy: no solution
+dowel: no solution
+downy: no solution
+dowry: no solution
+dozen: no solution
+draft: no solution
+drain: no solution
+drake: 3.6639237
+drama: 3.7548723
+drank: no solution
+drape: 3.576873
+drawl: 3.6569943
+drawn: 3.6569943
+dread: no solution
+dream: 3.6340406
+dress: no solution
+dried: no solution
+drier: no solution
+drift: 3.6569943
+drill: 3.7475097
+drink: no solution
+drive: no solution
+droit: no solution
+droll: no solution
+drone: no solution
+drool: no solution
+droop: 3.744045
+dross: 3.7886531
+drove: no solution
+drown: no solution
+druid: no solution
+drunk: no solution
+dryer: no solution
+dryly: 3.8536162
+duchy: no solution
+dully: no solution
+dummy: no solution
+dumpy: 3.7652664
+dunce: no solution
+dusky: no solution
+dusty: no solution
+dutch: no solution
+duvet: no solution
+dwarf: 3.7340841
+dwell: 3.827198
+dwelt: 3.6808143
+dying: no solution
+eager: no solution
+eagle: no solution
+early: 3.6565614
+earth: no solution
+easel: no solution
+eaten: no solution
+eater: no solution
+ebony: no solution
+eclat: no solution
+edict: no solution
+edify: 3.8064096
+eerie: no solution
+egret: no solution
+eight: no solution
+eject: no solution
+eking: no solution
+elate: no solution
+elbow: no solution
+elder: no solution
+elect: no solution
+elegy: no solution
+elfin: 3.664357
+elide: no solution
+elite: 3.6877437
+elope: 3.7115633
+elude: no solution
+email: 3.631442
+embed: 3.8012125
+ember: no solution
+emcee: 3.915981
+empty: 3.7605023
+enact: no solution
+endow: no solution
+enema: 3.7695973
+enemy: 3.8345604
+enjoy: 3.872239
+ennui: no solution
+ensue: no solution
+enter: no solution
+entry: no solution
+envoy: 3.8103075
+epoch: 3.6972716
+epoxy: 3.8921611
+equal: 3.8449545
+equip: 3.8822
+erase: no solution
+erect: no solution
+erode: no solution
+error: no solution
+erupt: no solution
+essay: no solution
+ester: no solution
+ether: no solution
+ethic: no solution
+ethos: no solution
+etude: no solution
+evade: no solution
+event: 3.8189692
+every: 3.8999567
+evict: no solution
+evoke: 3.9294066
+exact: no solution
+exalt: no solution
+excel: 3.857947
+exert: 3.8687744
+exile: no solution
+exist: no solution
+expel: 3.8696406
+extol: no solution
+extra: no solution
+exult: no solution
+eying: no solution
+fable: 3.6565614
+facet: no solution
+faint: no solution
+fairy: 3.720225
+faith: no solution
+false: no solution
+fancy: no solution
+fanny: no solution
+farce: no solution
+fatal: no solution
+fatty: no solution
+fault: no solution
+fauna: no solution
+favor: no solution
+feast: no solution
+fecal: 3.6344738
+feign: no solution
+fella: 3.7921178
+felon: 3.6556952
+femme: 3.9575574
+femur: no solution
+fence: 3.743612
+feral: 3.6466002
+ferry: 3.8744044
+fetal: no solution
+fetch: no solution
+fetid: no solution
+fetus: no solution
+fever: no solution
+fewer: no solution
+fiber: no solution
+ficus: 3.7340841
+field: 3.6712863
+fiend: no solution
+fiery: 3.762668
+fifth: no solution
+fifty: 3.9501948
+fight: no solution
+filer: no solution
+filet: 3.620615
+filly: 3.902122
+filmy: 3.768298
+filth: no solution
+final: 3.66479
+finch: no solution
+finer: no solution
+first: 3.635773
+fishy: no solution
+fixer: no solution
+fizzy: 4.102642
+fjord: no solution
+flack: 3.7223907
+flail: 3.803811
+flair: no solution
+flake: 3.7033348
+flaky: 3.793417
+flame: 3.6435688
+flank: no solution
+flare: 3.6388047
+flash: no solution
+flask: 3.7184927
+fleck: 3.7622347
+fleet: 3.7176266
+flesh: no solution
+flick: 3.7605023
+flier: no solution
+fling: no solution
+flint: no solution
+flirt: 3.6366394
+float: no solution
+flock: 3.7431788
+flood: no solution
+floor: no solution
+flora: 3.6673884
+floss: 3.8233001
+flour: no solution
+flout: 3.6769164
+flown: 3.7249892
+fluff: 4.0372458
+fluid: no solution
+fluke: 3.7570376
+flume: 3.7080986
+flung: no solution
+flunk: no solution
+flush: 3.7128627
+flute: 3.6691208
+flyer: no solution
+foamy: 3.7791252
+focal: 3.6595929
+focus: 3.7310524
+foggy: no solution
+foist: no solution
+folio: 3.8362927
+folly: 3.8882632
+foray: no solution
+force: no solution
+forge: no solution
+forgo: no solution
+forte: no solution
+forth: no solution
+forty: 3.7080986
+forum: 3.7301862
+found: no solution
+foyer: no solution
+frail: 3.650065
+frame: 3.6491988
+frank: no solution
+fraud: 3.6916413
+freak: 3.72932
+freed: no solution
+freer: no solution
+fresh: no solution
+friar: no solution
+fried: no solution
+frill: 3.783889
+frisk: 3.7362494
+fritz: 3.802945
+frock: 3.7418797
+frond: no solution
+front: no solution
+frost: 3.6427026
+froth: no solution
+frown: no solution
+froze: no solution
+fruit: no solution
+fudge: no solution
+fugue: no solution
+fully: 3.887397
+fungi: no solution
+funky: no solution
+funny: no solution
+furor: no solution
+furry: 3.8783023
+fussy: 3.9224772
+fuzzy: 4.113469
+gaffe: no solution
+gaily: no solution
+gamer: no solution
+gamma: no solution
+gamut: no solution
+gassy: no solution
+gaudy: no solution
+gauge: no solution
+gaunt: no solution
+gauze: 3.8393245
+gavel: 3.6972716
+gawky: no solution
+gayer: no solution
+gayly: no solution
+gazer: no solution
+gecko: 3.7843223
+geeky: no solution
+geese: no solution
+genie: no solution
+genre: no solution
+ghost: no solution
+ghoul: no solution
+giant: no solution
+giddy: 3.9168472
+gipsy: 3.7362494
+girly: no solution
+girth: no solution
+given: no solution
+giver: no solution
+glade: no solution
+gland: no solution
+glare: no solution
+glass: no solution
+glaze: 3.7527068
+gleam: no solution
+glean: no solution
+glide: no solution
+glint: no solution
+gloat: no solution
+globe: no solution
+gloom: no solution
+glory: no solution
+gloss: no solution
+glove: 3.724123
+glyph: no solution
+gnash: no solution
+gnome: no solution
+godly: no solution
+going: no solution
+golem: no solution
+golly: no solution
+gonad: no solution
+goner: no solution
+goody: no solution
+gooey: no solution
+goofy: no solution
+goose: no solution
+gorge: no solution
+gouge: no solution
+gourd: no solution
+grace: no solution
+grade: 3.6236465
+graft: no solution
+grail: no solution
+grain: no solution
+grand: no solution
+grant: no solution
+grape: 3.6106539
+graph: no solution
+grasp: 3.640104
+grass: no solution
+grate: no solution
+grave: 3.6959722
+gravy: 3.767865
+graze: 3.7644002
+great: no solution
+greed: no solution
+green: no solution
+greet: no solution
+grief: no solution
+grill: no solution
+grime: no solution
+grimy: no solution
+grind: no solution
+gripe: 3.6323082
+groan: no solution
+groin: no solution
+groom: no solution
+grope: no solution
+gross: no solution
+group: 3.6903422
+grout: no solution
+grove: no solution
+growl: no solution
+grown: no solution
+gruel: no solution
+gruff: no solution
+grunt: no solution
+guard: no solution
+guava: 3.921611
+guess: no solution
+guest: no solution
+guide: no solution
+guild: no solution
+guile: no solution
+guilt: no solution
+guise: no solution
+gulch: no solution
+gully: no solution
+gumbo: no solution
+gummy: no solution
+guppy: 3.9263752
+gusto: no solution
+gusty: no solution
+gypsy: 3.9172802
+habit: no solution
+hairy: no solution
+halve: 3.6959722
+handy: 3.7067995
+happy: 3.8908617
+hardy: no solution
+harem: no solution
+harpy: 3.695106
+harry: no solution
+harsh: no solution
+haste: no solution
+hasty: no solution
+hatch: no solution
+hater: no solution
+haunt: no solution
+haute: no solution
+haven: no solution
+havoc: no solution
+hazel: no solution
+heady: no solution
+heard: no solution
+heart: no solution
+heath: no solution
+heave: no solution
+heavy: no solution
+hedge: no solution
+hefty: no solution
+heist: no solution
+helix: 3.8098743
+hello: 3.7938502
+hence: no solution
+heron: no solution
+hilly: no solution
+hinge: no solution
+hippo: no solution
+hippy: no solution
+hitch: no solution
+hoard: no solution
+hobby: 3.9441316
+hoist: no solution
+holly: no solution
+homer: no solution
+honey: no solution
+honor: no solution
+horde: no solution
+horny: no solution
+horse: no solution
+hotel: no solution
+hotly: no solution
+hound: no solution
+house: no solution
+hovel: 3.7089648
+hover: no solution
+howdy: no solution
+human: 3.7055001
+humid: 3.7314856
+humor: no solution
+humph: 3.8908617
+humus: 3.8856647
+hunch: no solution
+hunky: no solution
+hurry: 3.866176
+husky: 3.8124728
+hussy: no solution
+hutch: no solution
+hydro: no solution
+hyena: no solution
+hymen: 3.769164
+hyper: no solution
+icily: no solution
+icing: no solution
+ideal: no solution
+idiom: 3.8692074
+idiot: no solution
+idler: no solution
+idyll: 3.866176
+igloo: 3.84712
+iliac: 3.7851884
+image: no solution
+imbue: 3.753573
+impel: 3.6522305
+imply: no solution
+inane: no solution
+inbox: 3.85275
+incur: no solution
+index: no solution
+inept: no solution
+inert: no solution
+infer: no solution
+ingot: no solution
+inlay: no solution
+inlet: no solution
+inner: no solution
+input: no solution
+inter: no solution
+intro: no solution
+ionic: no solution
+irate: no solution
+irony: no solution
+islet: 3.6002598
+issue: no solution
+itchy: no solution
+ivory: 3.8137722
+jaunt: no solution
+jazzy: 4.183196
+jelly: no solution
+jerky: 3.9346037
+jetty: no solution
+jewel: no solution
+jiffy: 4.0970116
+joint: no solution
+joist: no solution
+joker: no solution
+jolly: no solution
+joust: no solution
+judge: no solution
+juice: no solution
+juicy: 3.8973582
+jumbo: 3.8986573
+jumpy: 3.9051538
+junta: no solution
+junto: no solution
+juror: no solution
+kappa: 4.015591
+karma: 3.8245995
+kayak: 4.0675616
+kebab: 3.920745
+khaki: no solution
+kinky: 3.9826765
+kiosk: 3.8995235
+kitty: no solution
+knack: no solution
+knave: 3.7747943
+knead: no solution
+kneed: no solution
+kneel: 3.7739282
+knelt: 3.6864443
+knife: 3.7605023
+knock: 3.8796015
+knoll: no solution
+known: no solution
+koala: 3.841923
+krill: no solution
+label: 3.7548723
+labor: no solution
+laden: no solution
+ladle: no solution
+lager: no solution
+lance: no solution
+lanky: 3.7496753
+lapel: no solution
+lapse: 3.5673451
+large: no solution
+larva: 3.8068428
+lasso: 3.7600694
+latch: no solution
+later: no solution
+lathe: no solution
+latte: no solution
+laugh: no solution
+layer: no solution
+leach: no solution
+leafy: 3.6964054
+leaky: 3.738848
+leant: no solution
+leapt: no solution
+learn: 3.5708098
+lease: no solution
+leash: no solution
+least: no solution
+leave: 3.7648332
+ledge: 3.7414465
+leech: 3.7453444
+leery: 3.7795582
+lefty: 3.738415
+legal: no solution
+leggy: no solution
+lemon: no solution
+lemur: 3.6660893
+leper: 3.709398
+level: no solution
+lever: no solution
+libel: 3.7600694
+liege: no solution
+light: no solution
+liken: 3.699437
+lilac: no solution
+limbo: 3.7180598
+limit: 3.7804244
+linen: 3.7648332
+liner: 3.6236465
+lingo: no solution
+lipid: 3.7674317
+lithe: no solution
+liver: no solution
+livid: 3.8709397
+llama: 3.891728
+loamy: no solution
+loath: no solution
+lobby: no solution
+local: no solution
+locus: 3.6474664
+lodge: no solution
+lofty: no solution
+logic: 3.6764834
+login: no solution
+loopy: no solution
+loose: 3.709398
+lorry: no solution
+loser: no solution
+louse: 3.6214812
+lousy: no solution
+lover: no solution
+lower: no solution
+lowly: no solution
+loyal: no solution
+lucid: no solution
+lucky: 3.7921178
+lumen: no solution
+lumpy: 3.7310524
+lunar: no solution
+lunch: no solution
+lunge: no solution
+lupus: 3.807709
+lurch: 3.6769164
+lurid: no solution
+lusty: no solution
+lying: no solution
+lymph: 3.7674317
+lyric: no solution
+macaw: 3.8297966
+macho: no solution
+macro: 3.6383717
+madam: 3.930706
+madly: 3.6829796
+mafia: 3.8497186
+magic: no solution
+magma: no solution
+maize: 3.7960155
+major: no solution
+maker: no solution
+mambo: 3.8748376
+mamma: 4.1177998
+mammy: 4.039844
+manga: no solution
+mange: no solution
+mango: no solution
+mangy: no solution
+mania: 3.7778258
+manic: 3.6621914
+manly: 3.6686878
+manor: no solution
+maple: 3.60589
+march: no solution
+marry: 3.8068428
+marsh: no solution
+mason: 3.6292768
+masse: no solution
+match: no solution
+matey: no solution
+mauve: 3.7695973
+maxim: 3.9796448
+maybe: 3.7301862
+mayor: no solution
+mealy: 3.6613252
+meant: no solution
+meaty: no solution
+mecca: no solution
+medal: 3.6197488
+media: 3.6764834
+medic: 3.679515
+melee: 3.8679082
+melon: 3.635773
+mercy: 3.6985707
+merge: no solution
+merit: 3.600693
+merry: 3.8289304
+metal: 3.596795
+meter: no solution
+metro: no solution
+micro: 3.6704202
+midge: no solution
+midst: 3.650065
+might: no solution
+milky: no solution
+mimic: 3.9922044
+mince: 3.6370723
+miner: no solution
+minim: 3.9913383
+minor: no solution
+minty: 3.7158942
+minus: 3.6972716
+mirth: no solution
+miser: no solution
+missy: no solution
+mocha: no solution
+modal: no solution
+model: 3.6245127
+modem: 3.8215678
+mogul: no solution
+moist: 3.63534
+molar: no solution
+moldy: no solution
+money: no solution
+month: no solution
+moody: no solution
+moose: 3.7674317
+moral: 3.6201818
+moron: 3.7760935
+morph: 3.6782157
+mossy: 3.8744044
+motel: 3.5928974
+motif: 3.704201
+motor: no solution
+motto: no solution
+moult: no solution
+mound: no solution
+mount: no solution
+mourn: no solution
+mouse: 3.6769164
+mouth: no solution
+mover: no solution
+movie: 3.7596362
+mower: no solution
+mucky: 3.8336942
+mucus: 3.8479862
+muddy: no solution
+mulch: 3.6851451
+mummy: 4.084885
+munch: 3.7037678
+mural: 3.6466002
+murky: 3.802945
+mushy: no solution
+music: 3.6907752
+musky: 3.8241663
+musty: no solution
+myrrh: 3.8778691
+nadir: no solution
+naive: 3.7059333
+nanny: no solution
+nasal: 3.720225
+nasty: no solution
+natal: no solution
+naval: 3.8155046
+navel: 3.6877437
+needy: no solution
+neigh: no solution
+nerdy: no solution
+nerve: no solution
+never: no solution
+newer: no solution
+newly: no solution
+nicer: no solution
+niche: no solution
+niece: no solution
+night: no solution
+ninja: 3.9714162
+ninny: no solution
+ninth: no solution
+noble: 3.6271112
+nobly: 3.7033348
+noise: no solution
+noisy: 3.6985707
+nomad: no solution
+noose: no solution
+north: no solution
+nosey: no solution
+notch: no solution
+novel: no solution
+nudge: no solution
+nurse: no solution
+nutty: no solution
+nylon: no solution
+nymph: 3.7968817
+oaken: no solution
+obese: 3.7773929
+occur: no solution
+ocean: no solution
+octal: no solution
+octet: no solution
+odder: no solution
+oddly: no solution
+offal: 3.8804677
+offer: no solution
+often: no solution
+olden: no solution
+older: no solution
+olive: 3.733218
+ombre: no solution
+omega: no solution
+onion: no solution
+onset: no solution
+opera: no solution
+opine: no solution
+opium: 3.778259
+optic: no solution
+orbit: 3.6323082
+order: no solution
+organ: no solution
+other: no solution
+otter: no solution
+ought: no solution
+ounce: no solution
+outdo: no solution
+outer: no solution
+outgo: no solution
+ovary: 3.7977479
+ovate: no solution
+overt: no solution
+ovine: no solution
+ovoid: no solution
+owing: 3.7864876
+owner: no solution
+oxide: no solution
+ozone: no solution
+paddy: 3.8601127
+pagan: 3.7726288
+paint: no solution
+paler: 3.600693
+palsy: 3.6214812
+panel: no solution
+panic: 3.6383717
+pansy: 3.650065
+papal: 3.87657
+paper: no solution
+parer: 3.734517
+parka: 3.803811
+parry: 3.778259
+parse: 3.5673451
+party: no solution
+pasta: no solution
+paste: no solution
+pasty: no solution
+patch: no solution
+patio: no solution
+patsy: no solution
+patty: no solution
+pause: no solution
+payee: 3.7847552
+payer: no solution
+peace: no solution
+peach: no solution
+pearl: 3.5686445
+pecan: 3.6015592
+pedal: 3.6054568
+penal: 3.5781724
+pence: 3.6972716
+penne: 3.8553486
+penny: 3.842356
+perch: 3.6595929
+peril: 3.6037245
+perky: 3.7769597
+pesky: 3.793417
+pesto: 3.6284106
+petal: 3.5777392
+petty: no solution
+phase: no solution
+phone: no solution
+phony: 3.7228236
+photo: no solution
+piano: no solution
+picky: 3.8142052
+piece: 3.7111304
+piety: 3.695106
+piggy: no solution
+pilot: no solution
+pinch: no solution
+piney: 3.6834128
+pinky: 3.798614
+pinto: 3.6582937
+piper: no solution
+pique: 3.8458207
+pitch: no solution
+pithy: no solution
+pivot: no solution
+pixel: 3.747943
+pixie: 3.941533
+pizza: 3.9935036
+place: 3.562148
+plaid: 3.6041577
+plain: 3.5946298
+plait: no solution
+plane: no solution
+plank: no solution
+plant: no solution
+plate: 3.5521872
+plaza: 3.8804677
+plead: 3.5980945
+pleat: no solution
+plied: 3.5924642
+plier: 3.6037245
+pluck: 3.7050672
+plumb: 3.709398
+plume: 3.660026
+plump: 3.8202686
+plunk: no solution
+plush: 3.6582937
+poesy: 3.6890428
+point: no solution
+poise: 3.6245127
+poker: no solution
+polar: no solution
+polka: 3.709398
+polyp: 3.8557818
+pooch: 3.802945
+poppy: 4.0727587
+porch: 3.6526635
+poser: no solution
+posit: no solution
+posse: 3.768731
+pouch: 3.7020354
+pound: no solution
+pouty: 3.7210913
+power: no solution
+prank: no solution
+prawn: 3.6634908
+preen: 3.69987
+press: 3.768731
+price: 3.581204
+prick: 3.6933737
+pride: no solution
+pried: no solution
+prime: 3.6214812
+primo: 3.6821134
+print: no solution
+prior: no solution
+prism: 3.6396708
+privy: 3.7561715
+prize: 3.747943
+probe: no solution
+prone: no solution
+prong: no solution
+proof: 3.8012125
+prose: no solution
+proud: no solution
+prove: no solution
+prowl: 3.674751
+proxy: 3.837159
+prude: no solution
+prune: 3.6180165
+psalm: 3.6526635
+pubic: 3.7371156
+pudgy: no solution
+puffy: 3.9519272
+pulpy: no solution
+pulse: 3.606323
+punch: 3.69987
+pupil: 3.797315
+puppy: 4.0653963
+puree: no solution
+purer: no solution
+purge: 3.6743178
+purse: 3.6132524
+pushy: no solution
+putty: no solution
+pygmy: 3.945864
+quack: no solution
+quail: 3.8289304
+quake: 3.9042876
+qualm: 3.8155046
+quark: 3.891295
+quart: no solution
+quash: no solution
+quasi: 3.8666089
+queen: no solution
+queer: no solution
+quell: no solution
+query: no solution
+quest: no solution
+queue: 4.1160674
+quick: no solution
+quiet: no solution
+quill: no solution
+quilt: no solution
+quirk: 3.911217
+quite: no solution
+quota: no solution
+quote: 3.8233001
+quoth: no solution
+rabbi: 3.8510177
+rabid: 3.6483326
+racer: no solution
+radar: no solution
+radii: no solution
+radio: no solution
+rainy: no solution
+raise: no solution
+rajah: no solution
+rally: no solution
+ralph: 3.6297097
+ramen: 3.6149848
+ranch: no solution
+randy: no solution
+range: no solution
+rapid: 3.6253788
+rarer: no solution
+raspy: 3.6582937
+ratio: no solution
+ratty: no solution
+raven: 3.6816804
+rayon: no solution
+razor: no solution
+reach: no solution
+react: no solution
+ready: no solution
+realm: 3.600693
+rearm: 3.7466435
+rebar: no solution
+rebel: 3.719359
+rebus: 3.6808143
+rebut: 3.6504982
+recap: 3.615851
+recur: 3.7665656
+recut: no solution
+reedy: no solution
+refer: no solution
+refit: 3.640104
+regal: no solution
+rehab: 3.6704202
+reign: no solution
+relax: 3.7661326
+relay: no solution
+relic: 3.6288435
+remit: 3.6149848
+renal: 3.590299
+renew: no solution
+repay: 3.6708531
+repel: 3.6890428
+reply: 3.6825466
+rerun: no solution
+reset: no solution
+resin: no solution
+retch: no solution
+retro: no solution
+retry: no solution
+reuse: no solution
+revel: 3.7955825
+revue: 3.8362927
+rhino: no solution
+rhyme: 3.7444782
+rider: no solution
+ridge: no solution
+rifle: 3.6522305
+right: no solution
+rigid: no solution
+rigor: no solution
+rinse: 3.5751407
+ripen: 3.6050239
+riper: 3.7462106
+risen: no solution
+riser: no solution
+risky: no solution
+rival: 3.6959722
+river: no solution
+rivet: no solution
+roach: no solution
+roast: no solution
+robin: 3.644868
+robot: 3.7462106
+rocky: 3.7856214
+rodeo: no solution
+roger: no solution
+rogue: no solution
+roomy: 3.8440883
+roost: no solution
+rotor: no solution
+rouge: no solution
+rough: no solution
+round: no solution
+rouse: no solution
+route: no solution
+rover: no solution
+rowdy: no solution
+rower: no solution
+royal: no solution
+ruddy: no solution
+ruder: no solution
+rugby: no solution
+ruler: 3.7760935
+rumba: 3.7180598
+rumor: no solution
+rupee: 3.72932
+rural: 3.7756605
+rusty: no solution
+sadly: 3.6392379
+safer: no solution
+saint: no solution
+salad: 3.7119966
+sally: 3.7561715
+salon: 3.5790386
+salsa: 3.8735383
+salty: no solution
+salve: no solution
+salvo: 3.6972716
+sandy: no solution
+saner: no solution
+sappy: 3.8233001
+sassy: 3.985275
+satin: no solution
+satyr: no solution
+sauce: no solution
+saucy: no solution
+sauna: no solution
+saute: no solution
+savor: no solution
+savoy: 3.7644002
+savvy: 3.9220443
+scald: 3.6119533
+scale: 3.5552187
+scalp: 3.6054568
+scaly: 3.6530967
+scamp: 3.6565614
+scant: no solution
+scare: 3.5729754
+scarf: 3.669554
+scary: 3.660026
+scene: 3.684279
+scent: no solution
+scion: 3.630576
+scoff: 3.8653097
+scold: no solution
+scone: no solution
+scoop: 3.7613685
+scope: 3.615418
+score: no solution
+scorn: 3.6084886
+scour: no solution
+scout: no solution
+scowl: 3.6764834
+scram: 3.6323082
+scrap: 3.6236465
+scree: 3.684279
+screw: 3.684712
+scrub: 3.6907752
+scrum: 3.6608922
+scuba: 3.718926
+sedan: no solution
+seedy: 3.8020787
+segue: no solution
+seize: no solution
+semen: 3.7102642
+sense: no solution
+sepia: 3.6440017
+serif: 3.655262
+serum: 3.6539629
+serve: no solution
+setup: no solution
+seven: 3.783456
+sever: no solution
+sewer: no solution
+shack: no solution
+shade: no solution
+shady: 3.7215245
+shaft: no solution
+shake: no solution
+shaky: 3.7778258
+shale: no solution
+shall: 3.743612
+shalt: no solution
+shame: no solution
+shank: 3.6812472
+shape: no solution
+shard: 3.6392379
+share: no solution
+shark: 3.6916413
+sharp: 3.6466002
+shave: no solution
+shawl: 3.684279
+shear: no solution
+sheen: no solution
+sheep: no solution
+sheer: no solution
+sheet: no solution
+sheik: no solution
+shelf: no solution
+shell: no solution
+shied: no solution
+shift: no solution
+shine: no solution
+shiny: no solution
+shire: no solution
+shirk: 3.7063663
+shirt: no solution
+shoal: 3.6318753
+shock: no solution
+shone: no solution
+shook: 3.8458207
+shoot: no solution
+shore: no solution
+shorn: no solution
+short: no solution
+shout: no solution
+shove: no solution
+shown: no solution
+showy: no solution
+shrew: no solution
+shrub: no solution
+shrug: no solution
+shuck: no solution
+shunt: no solution
+shush: no solution
+shyly: 3.8783023
+siege: no solution
+sieve: 3.8090081
+sight: no solution
+sigma: no solution
+silky: 3.7622347
+silly: 3.8107405
+since: no solution
+sinew: 3.6617584
+singe: no solution
+siren: 3.5751407
+sissy: no solution
+sixth: no solution
+sixty: no solution
+skate: no solution
+skier: 3.689909
+skiff: 3.935037
+skill: 3.8241663
+skimp: 3.7574708
+skirt: 3.6630576
+skulk: 3.867475
+skull: 3.8289304
+skunk: no solution
+slack: 3.6595929
+slain: no solution
+slang: no solution
+slant: no solution
+slash: no solution
+slate: no solution
+sleek: 3.7522738
+sleep: 3.669987
+sleet: 3.6349068
+slept: 3.5786054
+slice: no solution
+slick: 3.6769164
+slide: 3.5993936
+slime: 3.6054568
+slimy: 3.684712
+sling: 3.6608922
+slink: 3.6734517
+sloop: 3.7219574
+slope: 3.5825033
+slosh: 3.7743611
+sloth: no solution
+slump: 3.6578605
+slung: no solution
+slunk: no solution
+slurp: 3.6240797
+slush: 3.8003464
+slyly: 4.0125594
+smack: no solution
+small: 3.7423127
+smart: no solution
+smash: 3.8111737
+smear: 3.6340406
+smell: 3.7726288
+smelt: 3.5989606
+smile: 3.61152
+smirk: 3.7063663
+smite: no solution
+smith: no solution
+smock: 3.7392812
+smoke: 3.7254221
+smoky: 3.8163707
+smote: no solution
+snack: no solution
+snail: no solution
+snake: no solution
+snaky: 3.7236898
+snare: no solution
+snarl: 3.5933304
+sneak: 3.6929407
+sneer: no solution
+snide: no solution
+sniff: 3.8484192
+snipe: 3.5989606
+snoop: 3.7514076
+snore: no solution
+snort: 3.5773063
+snout: no solution
+snowy: 3.7509744
+snuck: no solution
+snuff: 3.8783023
+soapy: 3.6925075
+sober: no solution
+soggy: no solution
+solar: no solution
+solid: no solution
+solve: 3.6877437
+sonar: no solution
+sonic: 3.630576
+sooth: no solution
+sooty: no solution
+sorry: 3.7947164
+sound: no solution
+south: no solution
+sower: no solution
+space: no solution
+spade: 3.6041577
+spank: no solution
+spare: 3.585968
+spark: 3.6873105
+spasm: 3.793417
+spawn: 3.6743178
+speak: 3.7024686
+spear: no solution
+speck: 3.7219574
+speed: 3.7115633
+spell: 3.743612
+spelt: 3.5851018
+spend: 3.6336076
+spent: no solution
+sperm: 3.6561282
+spice: 3.6054568
+spicy: 3.7072325
+spied: 3.6253788
+spiel: 3.586401
+spike: 3.6981378
+spiky: 3.7860546
+spill: 3.7397141
+spilt: 3.5651798
+spine: 3.5993936
+spiny: 3.6851451
+spire: 3.5980945
+spite: 3.5855348
+splat: no solution
+split: 3.5742745
+spoil: 3.63534
+spoke: 3.6968384
+spoof: 3.8375921
+spook: 3.8462539
+spool: 3.72932
+spoon: 3.754439
+spore: no solution
+sport: 3.5868342
+spout: 3.6427026
+spray: 3.6634908
+spree: 3.685578
+sprig: 3.6522305
+spunk: 3.7184927
+spurn: 3.6331744
+spurt: no solution
+squad: no solution
+squat: no solution
+squib: 3.8796015
+stack: no solution
+staff: no solution
+stage: no solution
+staid: no solution
+stain: no solution
+stair: no solution
+stake: no solution
+stale: no solution
+stalk: no solution
+stall: no solution
+stamp: 3.6431355
+stand: no solution
+stank: no solution
+stare: no solution
+stark: no solution
+start: no solution
+stash: no solution
+state: no solution
+stave: no solution
+stead: no solution
+steak: no solution
+steal: no solution
+steam: no solution
+steed: no solution
+steel: 3.6730187
+steep: no solution
+steer: no solution
+stein: no solution
+stern: 3.5881333
+stick: no solution
+stiff: 3.8735383
+still: 3.7301862
+stilt: 3.7007363
+sting: 3.669987
+stink: 3.6964054
+stint: 3.7327847
+stock: no solution
+stoic: no solution
+stoke: no solution
+stole: 3.5647466
+stomp: 3.669987
+stone: no solution
+stony: no solution
+stood: no solution
+stool: 3.7323518
+stoop: 3.762668
+store: no solution
+stork: 3.6907752
+storm: 3.6344738
+story: 3.6691208
+stout: 3.7721958
+stove: 3.7111304
+strap: 3.611087
+straw: no solution
+stray: no solution
+strip: 3.596362
+strut: 3.747943
+stuck: no solution
+study: no solution
+stuff: 3.8774362
+stump: 3.6860113
+stung: no solution
+stunk: no solution
+stunt: no solution
+style: 3.6734517
+suave: no solution
+sugar: no solution
+suing: no solution
+suite: no solution
+sulky: 3.7561715
+sully: 3.8103075
+sumac: 3.6660893
+sunny: no solution
+super: no solution
+surer: no solution
+surge: no solution
+surly: 3.6608922
+sushi: no solution
+swami: 3.7349503
+swamp: 3.7176266
+swarm: 3.7007363
+swash: no solution
+swath: no solution
+swear: no solution
+sweat: no solution
+sweep: 3.783889
+sweet: 3.7327847
+swell: 3.8090081
+swept: 3.6717193
+swift: 3.715028
+swill: 3.8064096
+swine: 3.6608922
+swing: 3.748376
+swirl: 3.6717193
+swish: no solution
+swoon: 3.8051105
+swoop: 3.8258986
+sword: no solution
+swore: no solution
+sworn: no solution
+swung: no solution
+synod: no solution
+syrup: 3.6929407
+tabby: no solution
+table: 3.571676
+taboo: no solution
+tacit: no solution
+tacky: no solution
+taffy: no solution
+taint: no solution
+taken: 3.665656
+taker: no solution
+tally: no solution
+talon: no solution
+tamer: no solution
+tango: no solution
+tangy: no solution
+taper: 3.5829363
+tapir: 3.5907319
+tardy: no solution
+tarot: no solution
+taste: no solution
+tasty: no solution
+tatty: no solution
+taunt: no solution
+tawny: no solution
+teach: no solution
+teary: no solution
+tease: no solution
+teddy: no solution
+teeth: no solution
+tempo: 3.6630576
+tenet: 3.8189692
+tenor: no solution
+tense: no solution
+tenth: no solution
+tepee: 3.8553486
+tepid: 3.6123862
+terra: no solution
+terse: no solution
+testy: no solution
+thank: no solution
+theft: no solution
+their: no solution
+theme: no solution
+there: no solution
+these: no solution
+theta: no solution
+thick: no solution
+thief: no solution
+thigh: no solution
+thing: no solution
+think: no solution
+third: no solution
+thong: no solution
+thorn: no solution
+those: no solution
+three: no solution
+threw: no solution
+throb: no solution
+throw: no solution
+thrum: 3.6825466
+thumb: 3.7405803
+thump: 3.7128627
+thyme: no solution
+tiara: no solution
+tibia: 3.8263319
+tidal: 3.6141186
+tiger: no solution
+tight: no solution
+tilde: no solution
+timer: 3.6106539
+timid: 3.7999134
+tipsy: no solution
+titan: no solution
+tithe: no solution
+title: no solution
+toast: no solution
+today: no solution
+toddy: no solution
+token: no solution
+tonal: no solution
+tonga: no solution
+tonic: no solution
+tooth: no solution
+topaz: 3.773062
+topic: 3.6414032
+torch: no solution
+torso: no solution
+torus: 3.6132524
+total: no solution
+totem: 3.7570376
+touch: no solution
+tough: no solution
+towel: 3.6431355
+tower: no solution
+toxic: no solution
+toxin: no solution
+trace: no solution
+track: no solution
+tract: no solution
+trade: no solution
+trail: no solution
+train: 3.5591166
+trait: no solution
+tramp: 3.6041577
+trash: no solution
+trawl: 3.6232135
+tread: no solution
+treat: 3.6964054
+trend: no solution
+triad: no solution
+trial: no solution
+tribe: 3.57644
+trice: no solution
+trick: no solution
+tried: no solution
+tripe: 3.5543525
+trite: no solution
+troll: no solution
+troop: 3.7141619
+trope: no solution
+trout: no solution
+trove: no solution
+truce: no solution
+truck: no solution
+truer: no solution
+truly: 3.664357
+trump: 3.6478996
+trunk: no solution
+truss: 3.7505414
+trust: no solution
+truth: no solution
+tryst: no solution
+tubal: 3.6349068
+tuber: no solution
+tulip: no solution
+tulle: no solution
+tumor: no solution
+tunic: no solution
+turbo: 3.669554
+tutor: no solution
+twang: 3.6972716
+tweak: 3.747943
+tweed: 3.7644002
+tweet: 3.8895626
+twice: no solution
+twine: 3.6461673
+twirl: 3.6526635
+twist: 3.783889
+twixt: 3.965786
+tying: no solution
+udder: no solution
+ulcer: no solution
+ultra: no solution
+umbra: 3.749242
+uncle: no solution
+uncut: no solution
+under: no solution
+undid: no solution
+undue: no solution
+unfed: no solution
+unfit: no solution
+unify: no solution
+union: no solution
+unite: no solution
+unity: no solution
+unlit: no solution
+unmet: no solution
+unset: no solution
+untie: no solution
+until: no solution
+unwed: no solution
+unzip: no solution
+upper: no solution
+upset: 3.640104
+urban: no solution
+urine: no solution
+usage: no solution
+usher: no solution
+using: no solution
+usual: 3.8254657
+usurp: 3.8393245
+utile: no solution
+utter: no solution
+vague: no solution
+valet: no solution
+valid: 3.700303
+valor: no solution
+value: 3.7115633
+valve: 3.8605456
+vapid: 3.7314856
+vapor: no solution
+vault: no solution
+vaunt: no solution
+vegan: no solution
+venom: 3.7522738
+venue: 3.8332613
+verge: 3.8207016
+verse: no solution
+verso: no solution
+verve: no solution
+vicar: no solution
+video: no solution
+vigil: 3.8796015
+vigor: no solution
+villa: no solution
+vinyl: no solution
+viola: 3.7323518
+viper: no solution
+viral: 3.6920745
+virus: 3.7561715
+visit: no solution
+visor: no solution
+vista: no solution
+vital: no solution
+vivid: 4.063664
+vixen: 3.866176
+vocal: 3.704634
+vodka: no solution
+vogue: no solution
+voice: no solution
+voila: 3.733651
+vomit: 3.7375488
+voter: no solution
+vouch: no solution
+vowel: no solution
+vying: no solution
+wacky: 3.8466868
+wafer: no solution
+wager: no solution
+wagon: no solution
+waist: no solution
+waive: 3.7817237
+waltz: 3.7977479
+warty: no solution
+waste: no solution
+watch: no solution
+water: no solution
+waver: no solution
+waxen: 3.8354266
+weary: no solution
+weave: 3.8557818
+wedge: 3.822001
+weedy: no solution
+weigh: no solution
+weird: no solution
+welch: 3.7228236
+welsh: no solution
+whack: no solution
+whale: no solution
+wharf: no solution
+wheat: no solution
+wheel: 3.7955825
+whelp: 3.7271545
+where: no solution
+which: no solution
+whiff: 3.97618
+while: 3.704201
+whine: no solution
+whiny: 3.7990472
+whirl: 3.7141619
+whisk: 3.8016458
+white: no solution
+whole: no solution
+whoop: 3.8739715
+whose: no solution
+widen: no solution
+wider: no solution
+widow: no solution
+width: no solution
+wield: 3.6769164
+wight: no solution
+willy: 3.9055867
+wimpy: 3.822001
+wince: 3.6821134
+winch: 3.7405803
+windy: 3.7795582
+wiser: no solution
+wispy: 3.7804244
+witch: no solution
+witty: no solution
+woken: no solution
+woman: 3.7228236
+women: 3.7067995
+woody: no solution
+wooer: no solution
+wooly: no solution
+woozy: no solution
+wordy: no solution
+world: no solution
+worry: no solution
+worse: no solution
+worst: 3.6318753
+worth: no solution
+would: no solution
+wound: no solution
+woven: no solution
+wrack: 3.738848
+wrath: no solution
+wreak: no solution
+wreck: no solution
+wrest: 3.6232135
+wring: no solution
+wrist: 3.6284106
+write: 3.6336076
+wrong: no solution
+wrote: no solution
+wrung: no solution
+wryly: 3.9038544
+yacht: no solution
+yearn: 3.6535296
+yeast: no solution
+yield: no solution
+young: no solution
+youth: no solution
+zebra: 3.8163707
+zesty: no solution
+zonal: no solution
